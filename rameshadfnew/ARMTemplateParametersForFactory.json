@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "rameshadfnew"
 		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
 		"LS_ONPREMTOAZURE_connectionString": {
 			"value": ""
 		},
@@ -13,6 +16,9 @@
 		},
 		"ls_onpremsqltocloud_password": {
 			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://rameshstoragenew.dfs.core.windows.net"
 		},
 		"ls_onpremsqltocloud_properties_typeProperties_userName": {
 			"value": "RAMESH REDDY"
