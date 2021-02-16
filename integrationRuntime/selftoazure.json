@@ -1,0 +1,6 @@
+{
+	"name": "selftoazure",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

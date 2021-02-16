@@ -1,0 +1,17 @@
+{
+	"name": "ls_onpremsqltocloud",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"connectionString": "integrated security=True;data source=DESKTOP-8B2DF0R;initial catalog=sa",
+			"userName": "RAMESH REDDY",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJmMjc1NGY1Mi0xNjFiLTRmYjMtOTkxZS0wNTc3NTg2ZWRjNjQiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "selftoazure",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
